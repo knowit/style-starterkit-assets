@@ -1,0 +1,12 @@
+{
+  "name": "style-starterkit-assets",
+  "version": "0.0.1",
+  "description": "Basic assets to get you started on your unique project!",
+  "repository": "https://github.knowit.no/knowit/style-starterkit-assets",
+  "author": {
+    "name": "Torleif Halseth",
+    "email": "torleif.halseth@knowit.no",
+    "url": "http://github.com/thalseth"
+  },
+  "license": "Apache-2.0"
+}
